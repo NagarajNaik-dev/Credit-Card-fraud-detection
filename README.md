@@ -94,6 +94,3 @@ Second-year BCA student, Srinivas University
 Focused on building secure, realistic retail systems and interactive web applications.  
 
 ---
-
-
-Would you like me to also **map your actual uploaded screenshots into the README with proper filenames** (e.g., `workflow.png`, `dataset.png`), so you can copy-paste directly into your GitHub repo?
