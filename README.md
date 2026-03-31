@@ -104,7 +104,7 @@ The Random Forest model achieved strong performance on the fraud detection datas
 
 ## 🧑‍💻 Author
 **Nagaraj Lakshman Naik**  
-Emerging professional in Software Development and Data Science, passionate about building secure, scalable applications and intelligent systems.  
-Currently developing hands‑on projects in fraud detection, workflow automation, and interactive applications, with a focus on clear, recruiter‑friendly documentation and practical impact.
+Passionate about creating practical projects that combine software and data.  
+Interested in building scalable systems, exploring intelligent applications, and presenting work with clear, professional documentation.
 
 ---
