@@ -57,19 +57,33 @@ The workflow consists of the following steps:
 
 ---
 
-## 📸 Screenshots
-- **Workflow Overview** – End-to-end KNIME pipeline  
-- **Dataset Preview** – Sample transactions with attributes  
-- **Heatmap** – Fraud vs. non-fraud predictions  
-- **ROC Curve** – Model evaluation  
+## 📊 Results & Screenshots
 
-*(Screenshots can be referenced in Markdown as:)*  
-```markdown
-![Workflow Overview](static/images/workflow.png)  
-![Dataset Preview](static/images/dataset.png)  
-![Heatmap](static/images/heatmap.png)  
-![ROC Curve](static/images/roc_curve.png)  
-```
+The Random Forest model achieved strong performance on the fraud detection dataset:
+
+- **Accuracy:** 99.7%
+- **Precision (Fraud class):** 74.4%
+- **Recall (Fraud class):** 100%
+- **F1-score (Fraud class):** 85.3%
+- **Cohen’s Kappa:** 0.851 (indicates strong agreement beyond chance)
+
+### Workflow
+![Workflow](static/images/workflow.png)
+
+### Dataset Preview
+![Dataset](static/images/dataset.png)
+
+### Heatmap (Predictions)
+![Heatmap](static/images/heatmap.png)
+
+### ROC Curve
+![ROC Curve](static/images/roc_curve.png)
+
+### Accuracy Statistics
+![Accuracy](static/images/accuracy.png)
+
+### Confusion Matrix
+![Confusion Matrix](static/images/confusion_matrix.png)
 
 ---
 
