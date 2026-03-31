@@ -76,14 +76,14 @@ The Random Forest model achieved strong performance on the fraud detection datas
 ### Heatmap (Predictions)
 ![Heatmap](images/heatmap.png)
 
-### ROC Curve
-![ROC Curve](images/roc_curve.png)
-
 ### Accuracy Statistics
 ![Accuracy](images/accuracy.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](images/roc_curve.png)
 
 ---
 
