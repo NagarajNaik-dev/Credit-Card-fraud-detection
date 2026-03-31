@@ -68,22 +68,22 @@ The Random Forest model achieved strong performance on the fraud detection datas
 - **Cohen’s Kappa:** 0.851 (indicates strong agreement beyond chance)
 
 ### Workflow
-![Workflow](static/images/workflow.png)
+![Workflow](images/workflow.png)
 
 ### Dataset Preview
-![Dataset](static/images/dataset.png)
+![Dataset](images/dataset.png)
 
 ### Heatmap (Predictions)
-![Heatmap](static/images/heatmap.png)
+![Heatmap](images/heatmap.png)
 
 ### ROC Curve
-![ROC Curve](static/images/roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 
 ### Accuracy Statistics
-![Accuracy](static/images/accuracy.png)
+![Accuracy](images/accuracy.png)
 
 ### Confusion Matrix
-![Confusion Matrix](static/images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
